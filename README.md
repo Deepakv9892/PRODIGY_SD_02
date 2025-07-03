@@ -35,7 +35,7 @@ This task was developed as part of my internship at **The Prodigy Infotech** to 
 
 ## 📸 Screenshot
 
-> *(Add your app screenshot here)*
+> ![screenshot](screenshot.png)
 
 ---
 
